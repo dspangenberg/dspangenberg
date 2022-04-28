@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[@daspbn@mastodon.social/@daspbn](https://mastodon.social/@daspbn){rel: 'me')
-
-
+<img src="https://user-images.githubusercontent.com/166466/165858404-175de784-e9c0-43e4-a57b-baf6d1555792.svg" width="16" height="16">[@daspbn@mastodon.social/@daspbn](https://mastodon.social/@daspbn){rel="me"}
+ 
 <!--
 **dspangenberg/dspangenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
