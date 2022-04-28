@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://mastodon.social/@daspbn"><img src="https://user-images.githubusercontent.com/166466/165858404-175de784-e9c0-43e4-a57b-baf6d1555792.svg" width="16" height="16"></a>
+<a rel="me" href="https://mastodon.social/@daspbn"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/logo.svg" width="16" height="16"></a>
 
 
 
