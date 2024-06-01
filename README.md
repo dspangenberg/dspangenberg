@@ -2,7 +2,7 @@
 
 <a rel="me" href="https://mastodon.social/@daspbn"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/logo.svg" width="16" height="16"></a>
 
-
+- 🔭 After several years of developing full-stack in JavaScript, I am on my way back to my roots and currently dusting off my PHP and  Laravel knowledge.
 
 
 
