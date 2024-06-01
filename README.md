@@ -2,9 +2,8 @@
 
 <a rel="me" href="https://mastodon.social/@daspbn"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/logo.svg" width="16" height="16"></a>
 
-- 🔭 After several years of developing full-stack in JavaScript (AdonisJS, Vue.js), I am currently dusting off my PHP and  Laravel knowledge.
-- 👯  After a longtime as freelancer, I am looking for a new job (permanent employment) in 
-the Cologne/Bonn metropolitan area (Preferably as part of a small team).
+After several years of developing full-stack in JavaScript (AdonisJS, Vue.js), I am currently dusting off my PHP and  Laravel knowledge.
+Following a longtime as freelancer, I am looking for a new job (permanent employment) in the Cologne/Bonn metropolitan area (preferably as part of a small team).
 
 
  
