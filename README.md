@@ -2,6 +2,8 @@
 
 <a rel="me" href="https://mastodon.social/@daspbn"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/logo.svg" width="16" height="16"></a>
 
+Since my youth, I have been fascinated by programming, the beauty of logic, the need to think outside the box, to work in an analytical and solution-orientated way. The creative aspect, the need to be able to put myself in the users' shoes and the unforeseeable, which forces me to leave the beaten track and find new solutions, made the job for nearly 30 years exciting.
+
 After several years of developing full-stack in JavaScript (AdonisJS, Vue.js), I am currently dusting off my PHP and  Laravel knowledge.
 Following a longtime as freelancer, I am looking for a permanent employment in the Cologne/Bonn metropolitan area (preferably as part of a small team in a small company).
 
