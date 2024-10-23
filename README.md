@@ -5,7 +5,8 @@
 Since my youth, I have been fascinated by programming, the beauty of logic, the need to think outside the box, to work in an analytical and solution-orientated way. The creative aspect, the need to be able to put myself in the users' shoes and the unforeseeable, which forces me to leave the beaten track and find new solutions, made the job for nearly 30 years exciting.
 
 After several years of developing full-stack in JavaScript (AdonisJS, Vue.js), I am currently dusting off my PHP and  Laravel knowledge.
-Following a longtime as freelancer, I am looking for a permanent employment in the Cologne/Bonn metropolitan area.
+
+Following a longtime as freelancer, I am looking for exciting projects or for permanent employment in SaaS-Sector in the Cologne/Bonn metropolitan area.
 
 
  
