@@ -6,4 +6,4 @@ Since my youth, I have been fascinated by programming, the beauty of logic, the 
 
 After several years of developing full-stack in JavaScript (Adonis JS, Vue.js), I am currently dusting off my PHP and Laravel knowledge.
 
-Following a long time as a freelancer, I am looking for exciting projects or for permanent employment in the SaaS in the Cologne/Bonn metropolitan area.
+Following a long time as a freelancer, I am looking for exciting projects or for permanent employment in the SaaS sector in the Cologne/Bonn metropolitan area.
