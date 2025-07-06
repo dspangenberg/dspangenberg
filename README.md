@@ -2,25 +2,8 @@
 
 <a rel="me" href="https://mastodon.social/@daspbn"><img src="https://raw.githubusercontent.com/mastodon/mastodon/main/app/javascript/images/logo.svg" width="16" height="16"></a>
 
-Since my youth, I have been fascinated by programming, the beauty of logic, the need to explore unconventional solutions, to work in an analytical and solution-orientated way. The creative aspect, the need to be able to put myself in the users' shoes and the unforeseeable, which forces me to leave the beaten track and find new solutions, made the job for nearly 30 years exciting.
+Since my youth, I have been fascinated by programming, the beauty of logic, the need to explore unconventional solutions, and working in an analytical and solution-oriented way. The creative aspect, the need to be able to put myself in the users' shoes, and the unforeseeable, which forces me to leave the beaten track and find new solutions, made the job for nearly 30 years exciting.
 
 After several years of developing full-stack in JavaScript (Adonis JS, Vue.js), I am currently dusting off my PHP and Laravel knowledge.
 
-Following a longtime as freelancer, I am looking for exciting projects or for permanent employment in SaaS-Sector in the Cologne/Bonn metropolitan area.
-
-
- 
-<!--
-**dspangenberg/dspangenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Following a long time as a freelancer, I am looking for exciting projects or for permanent employment in the SaaS in the Cologne/Bonn metropolitan area.
